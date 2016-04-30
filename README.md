@@ -17,7 +17,7 @@ Pretty clean and simple layout for my calculator.
 Currently I don't have really an idea for allowing people to fork on my project yet but if it is a major issue you may submit for pull request <a href="https://github.com/McFanta/Simple-Calculator/pulls">here</a>. That's all about pull requests.
 
 
-<h3>Submitting issues</h3>
+<h3>Submitting issuesss</h3>
 To submit an issue you must have important reasons. I don't really like joke issues about stuff. An issue should be submitted due important reasons. You may submit an issue if you want to suggest me something but for now suggestions are useless for me currently. Issues can be submitted <a href="https://github.com/McFanta/Simple-Calculator/pulls">here</a>. Here is a <a href="https://github.com/McFanta/Simple-Calculator/issues/2">guide</a> about issues. That's all about issues.
 
 Thanks for reading the readme page!
