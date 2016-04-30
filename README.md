@@ -20,6 +20,10 @@ Currently I don't have really an idea for allowing people to fork on my project 
 <h3>Submitting issues</h3>
 To submit an issue you must have important reasons. I don't really like joke issues about stuff. An issue should be submitted due important reasons. You may submit an issue if you want to suggest me something but for now suggestions are useless for me currently. Issues can be submitted <a href="https://github.com/McFanta/Simple-Calculator/pulls">here</a>. Here is a <a href="https://github.com/McFanta/Simple-Calculator/issues/2">guide</a> about issues. That's all about issues.
 
+<h4>Guides</h4>
+
+If you want to read more guides you can check them out <a href="https://github.com/McFanta/Simple-Calculator/issues?q=is%3Aissue+is%3Aclosed+label%3Aguide">here</a>. You can even make guides by your own if you really want to help. I will be appreciated if you have made any guides for me! That's all about Guides
+
 Thanks for reading the readme page!
 
 
