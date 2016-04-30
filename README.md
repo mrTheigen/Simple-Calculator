@@ -2,5 +2,15 @@
 
 Hello there!
 
-Welcome to this repository. This repository contains files for a simple calculator for Windows programmed with C#. 
-The calculator was programmed by myself on Microsoft Visual Studio 2015 a very great program to use. The calculator works just like any other calculators. It may have some bugs if you have seen one please report it on the <a href="https://github.com/McFanta/Simple-Calculator/issues">issues</a> page. 
+Welcome to my repository. This repository is used for the calculator I programmed for Windows systems with C#. This calculator is simple to program because of the language C# is a simple language. The calculator is pretty much very basic. You can view a screenshot down below. I programmed this on a program by Microsoft called Visual Studio 2015 the community edition. You can download Visual Studio 2015 <a href="https://go.microsoft.com/fwlink/?LinkId=691978&clcid=0x409">here</a> if you are interested to try it out. If you are interested to learn more about programming with C# you can rather look it up at YouTube, buy a C# book or read tutorials on the internet. That's what I recommend. More information down below. 
+
+<h3>Downloading the calculator</h3>
+
+To download my calculator you can rather clone my repository or download the zip file for my repository <a href="https://github.com/McFanta/Simple-Calculator/archive/master.zip">here</a>. 
+
+Here is a screenshot of how the calculator looks like:
+
+<img src="//i.imgur.com/LE5R303.png" alt="">
+Pretty clean and simple layout for my calculator.
+
+
