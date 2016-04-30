@@ -8,9 +8,7 @@ Welcome to my repository. This repository is used for the calculator I programme
 
 To download my calculator you can rather clone my repository or download the zip file for my repository <a href="https://github.com/McFanta/Simple-Calculator/archive/master.zip">here</a>. 
 
-Here is a link to a screenshot of how the calculator looks like:
-
-<a href="http://imgur.com/LE5R303"</a>
+Here is a <a href="http://imgur.com/LE5R303">link</a> to a screenshot of how the calculator looks like
 Pretty clean and simple layout for my calculator.
 
 
