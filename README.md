@@ -10,7 +10,7 @@ To download my calculator you can rather clone my repository or download the zip
 
 Here is a screenshot of how the calculator looks like:
 
-<img src="//i.imgur.com/LE5R303.png" alt="">
+<img src="http:////i.imgur.com/LE5R303.png">
 Pretty clean and simple layout for my calculator.
 
 
