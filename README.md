@@ -13,3 +13,14 @@ Here is a <a href="http://imgur.com/LE5R303">link</a> to a screenshot of how the
 Pretty clean and simple layout for my calculator.
 
 
+<h3>Submitting pull requests</h3>
+Currently I don't have really an idea for allowing people to fork on my project yet but if it is a major issue you may submit for pull request <a href="https://github.com/McFanta/Simple-Calculator/pulls">here</a>. A guide about pull requests will probably added to the issue page in the future. That's all about pull requests.
+
+
+<h3>Submitting issues</h3>
+To submit an issue you must have important reasons. I don't really like joke issues about stuff. An issue should be submitted due important reasons. You may submit an issue if you want to suggest me something but for now suggestions are useless for me currently. Issues can be submitted <a href="https://github.com/McFanta/Simple-Calculator/pulls">here</a>. A guide about issues will probably be added to the issue page in the future! That's all about issues.
+
+Thanks for reading the readme page!
+
+
+
